@@ -15,4 +15,4 @@ Below snapshot shows the Netflix stock market data analysis:
 ![image](https://github.com/ashwinijujare/Netflix_Data_Analysis_using_PowerBI/assets/117963460/a14bc689-6475-4d1a-9ca8-eecca5c470cd)
 
 Below is the link to the MS Power BI published report
-https://app.powerbi.com/groups/me/reports/3a0db286-d510-46c1-ae4e-ae94388a4a85/ReportSection?experience=power-bi
+https://app.powerbi.com/links/1htdoddhxF?ctid=44645b8b-dac7-4359-92cc-7f3bcea5c5e6&pbi_source=linkShare
