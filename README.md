@@ -9,10 +9,11 @@ Analysis on Netflix shows and stock market data using MS Power BI
 - Include a mobile version as well for ease of access through any device
 
 Below snapshot shows the Netflix show data analysis:
-![image](https://github.com/ashwinijujare/Netflix_Data_Analysis_using_PowerBI/assets/117963460/659aae1c-d89f-4fe1-9d00-354079ff5673)
+![image](https://github.com/ashwinijujare/Netflix_Data_Analysis_using_PowerBI/assets/117963460/4907c931-258a-4673-89e9-3a7345f94080)
+
 
 Below snapshot shows the Netflix stock market data analysis:
 ![image](https://github.com/ashwinijujare/Netflix_Data_Analysis_using_PowerBI/assets/117963460/a14bc689-6475-4d1a-9ca8-eecca5c470cd)
 
 Below is the link to the MS Power BI published report
-[https://app.powerbi.com/links/1htdoddhxF?ctid=44645b8b-dac7-4359-92cc-7f3bcea5c5e6&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiN2YyZTkzNjktMjE2NC00ZTA2LWEyMTktN2UxZWYxMGY4MGE5IiwidCI6IjQ0NjQ1YjhiLWRhYzctNDM1OS05MmNjLTdmM2JjZWE1YzVlNiJ9)
+https://app.powerbi.com/view?r=eyJrIjoiN2YyZTkzNjktMjE2NC00ZTA2LWEyMTktN2UxZWYxMGY4MGE5IiwidCI6IjQ0NjQ1YjhiLWRhYzctNDM1OS05MmNjLTdmM2JjZWE1YzVlNiJ9
